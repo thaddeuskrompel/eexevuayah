@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://laipainga.ei-grad.ru/sitemap.xml
